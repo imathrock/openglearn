@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\imath\Desktop\Projects\openglearn\build\CMakeFiles\a66dd881f65e3bbb46bd4075da5cd4f2\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\imath\Desktop\Projects\openglearn\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\imath\Desktop\Projects\openglearn\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F490E238-64B4-3EB3-B19B-5C163B0E798D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
